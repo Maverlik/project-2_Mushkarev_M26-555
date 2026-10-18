@@ -114,7 +114,7 @@ src/primitive_db/
 
 ## Демонстрация
 
-[![Демонстрация работы базы данных](https://asciinema.org/a/TA08eVv2cFdtpy1H.svg)](https://asciinema.org/a/TA08eVv2cFdtpy1H)
+[![Демонстрация работы базы данных](demo-preview.svg)](https://asciinema.org/a/TA08eVv2cFdtpy1H)
 
 Запись показывает установку пакета и запуск, создание таблицы, все
 CRUD-операции, отмену и подтверждение удаления записей и таблицы.
